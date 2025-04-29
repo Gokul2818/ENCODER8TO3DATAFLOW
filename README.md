@@ -55,9 +55,9 @@ Figure 02  Encoder 8 * 3
     assign c=din[2] | din[4] | din[6] | din[7];
     endmodule
 
-Developed by:Tharun.R 
+Developed by:Madhan C
 
-RegisterNumber:212224240172
+RegisterNumber:212224240081
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
